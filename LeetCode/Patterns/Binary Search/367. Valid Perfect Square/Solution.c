@@ -1,5 +1,5 @@
 bool isPerfectSquare(int num) {
-    int l=2;
+    int l=1;
     int h=num/2;
     while(l<h){
         int mid=l+(h-l)/2;
