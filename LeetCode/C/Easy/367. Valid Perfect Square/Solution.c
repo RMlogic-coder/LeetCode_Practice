@@ -1,10 +1,9 @@
 bool isPerfectSquare(int num) {
-    
-    
-    for(int i=2;i<num/2;i++){
-        if(i*i==num){
-            return true;
-        }
+    int l=2;
+    int h=num/2;
+    while(l<h){
+        int mid=l+(h-l)/2;
+        
+        if(midmid)
     }
-    return false;
 }
