@@ -1,6 +1,6 @@
 # 📝 367. Valid Perfect Square (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-perfect-square/?envType=problem-list-v2&envId=binary-search)
+🔗 [Problem Link](https://leetcode.com/problems/valid-perfect-square/solutions/6637482/master-binary-search-to-verify-perfect-s-ab48/?envType=problem-list-v2&envId=binary-search)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
 
