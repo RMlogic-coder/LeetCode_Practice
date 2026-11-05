@@ -4,6 +4,13 @@ bool isPerfectSquare(int num) {
     while(l<h){
         int mid=l+(h-l)/2;
         
-        if(midmid)
+        if(mid*mid<num){
+            l=mid+1;
+        }
+        else {
+            h=mid;
+        }
+        if(mid*mid==num) return true;
     }
+    return false;
 }
